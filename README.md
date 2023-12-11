@@ -14,4 +14,4 @@ Individuals who remove or modify the license file will also carry the consequenc
 
 ----------------------------------------------------------------------
 Test Coverage from Coveralls:
-[![Coverage Status](https://coveralls.io/repos/github/TuomasHuikko/COMP.SE.200-assignment/badge.svg?branch=test-dev)](https://coveralls.io/github/TuomasHuikko/COMP.SE.200-assignment?branch=test-dev)
+[![Coverage Status](https://coveralls.io/repos/github/TuomasHuikko/COMP.SE.200-assignment/badge.png?branch=main)](https://coveralls.io/github/TuomasHuikko/COMP.SE.200-assignment?branch=main)
